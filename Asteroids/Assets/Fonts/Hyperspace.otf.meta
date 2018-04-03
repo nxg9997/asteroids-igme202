@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 19df99c2a8a7b724c8d22fea7b832edf
+timeCreated: 1507222826
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 50
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Hyperspace
+  fontNames:
+  - Hyperspace
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 23e1a9e8a907c3a48924f8ebc2864490, type: 3}
+  - {fileID: 12800000, guid: f925b91ae4623df4a929c105ff69fa71, type: 3}
+  - {fileID: 12800000, guid: 5da28eee993a3634392dbd18fad3163e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 1
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
